@@ -40,10 +40,22 @@ unzip data-shell.zip; unzip python-novice-gapminder-data.zip
 * Get list of bash commands (google search a list), can also explain about `ls $PWD` but that might be "too busy" even if it's an exact answer.
 * Git Bash has weird "tab-completion" behavior... may need to add `/c/` prefix.
 * Windows: `ls /` shows where `git-bash.exe` is installed (not the home directory).  (windows subsystem for linux)... there are always pathing issues on Windows. Best to keep traveling up the parent directory (repeat `cd ..; ls` ) until we find the `C:` system folder. Then navigate down to Desktop and start setting up symbolic links `ln -s`. (hmm wonnder if there's a way to swap sharing for Windows/Mac/Linux... guess this goes into a video comparison).
+* Naming conventions with usernames (space and special charactters will wreck havock to any programs installed on Desktop)
+* New SCINet users -> pipeline them to the next SCINet Software Carpentry Training (either send the list of emails to coordinator, or give them priority signup for workshops)
+* Spend a day without the mouse :) all in commandline ("mouse-less challenge")
+* Run the tutorials in breakout rooms. Groups of 4 people work through a tutorial, collectively submit answers to a github repo (foolder named by group). 
 
 ## Python
 
 Any dependencies saved into an `environment.yml` file
 
 ```
+name: jup_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyterlab     #<= more recent than jupyter notebooks, more like RStudio?
 ```
