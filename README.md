@@ -24,8 +24,8 @@ unzip data-shell.zip; unzip python-novice-gapminder-data.zip
 
 | File | Description |
 |:--|:--|
-|[Basic.ipynb](Basic.ipynb)| Setup environment, data structures up to pipeline development |
-|[Plots.ipynb](Plots.ipynb)| Graphics and plotting, matplotlib |
+|[Basic.md](Basic.md)| Setup environment, data structures up to pipeline development |
+|[Plots.md](Plots.md)| Graphics and plotting, matplotlib |
 |[Lists.ipynb](Lists.ipynb)| Lists and list comprehension and maybe loops |
 |[Landsat_Example.md](Landsat_Example.md)| Image process a landsat image |
 
