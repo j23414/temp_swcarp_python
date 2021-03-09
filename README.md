@@ -20,6 +20,15 @@ ls -1 *.zip
 unzip data-shell.zip; unzip python-novice-gapminder-data.zip
 ```
 
+## Tutorials
+
+| File | Description |
+|:--|:--|
+|[Basic.ipynb](Basic.ipynb)| Setup environment, data structures up to pipeline development |
+
+
+<details><summary>Some other notes</summary>
+
 ## General notes on presenting material: 
 
 * Create a `Presenter` account on MacOS or Windows, avoids any errant files and is a clean system for the demonstration
@@ -59,3 +68,4 @@ dependencies:
   - python=3.8
   - jupyterlab     #<= more recent than jupyter notebooks, more like RStudio?
 ```
+</details>
