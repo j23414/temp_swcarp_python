@@ -1,0 +1,6 @@
+color,count
+red,11
+white,22
+blue,33
+green,44
+purple,55
