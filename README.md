@@ -25,6 +25,8 @@ unzip data-shell.zip; unzip python-novice-gapminder-data.zip
 | File | Description |
 |:--|:--|
 |[Basic.ipynb](Basic.ipynb)| Setup environment, data structures up to pipeline development |
+|[Plots.ipynb](Plots.ipynb)| Graphics and plotting, matplotlib |
+|[Lists.ipynb](Lists.ipynb)| Lists and list comprehension and maybe loops |
 
 
 <details><summary>Some other notes</summary>
