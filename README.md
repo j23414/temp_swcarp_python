@@ -73,7 +73,8 @@ dependencies:
 ```
 </details>
 
-Suggestions from Geospatial Working Group (Rowan)
+Suggestions from Geospatial Working Group (Rowan & Yanghui)
 
 * [ ] https://github.com/isikdogan/deepwatermap#running-inference
 * [ ] https://github.com/cordmaur/WaterDetect
+* [ ] Landsat-derived `pixel_qa` - https://www.usgs.gov/core-science-systems/nli/landsat/landsat-sr-derived-spectral-indices-pixel-quality-band
