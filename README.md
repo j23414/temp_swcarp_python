@@ -72,3 +72,8 @@ dependencies:
   - jupyterlab     #<= more recent than jupyter notebooks, more like RStudio?
 ```
 </details>
+
+Suggestions from Geospatial Working Group (Rowan)
+
+* [ ] https://github.com/isikdogan/deepwatermap#running-inference
+* [ ] https://github.com/cordmaur/WaterDetect
